@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #a3a2a2;
 }
-.firstdiv {
+#firstdiv {
   background-color: #ffffff;
   margin: auto;
   width: 40%;
@@ -18,7 +18,7 @@ h2 {
   font-style: italic;
   text-align: center;
 }
-.self {
+#self {
   display: block;
   border-radius: 50%;
   margin-left: auto;
@@ -34,7 +34,7 @@ h2 {
   width: 400px;
   float: left;
 }
-.flag {
+#flag {
   width: 30px;
   float: left;
   margin-right: 10px;
